@@ -24,7 +24,7 @@
     height: 100px;
     border-radius: 50%;
 }
-@media screen and (min-width:100px) and (max-width:800px){
+@media screen and (min-width:100px) and (max-width:992px){
   .padd{
     padding-bottom: 30px;
   }
